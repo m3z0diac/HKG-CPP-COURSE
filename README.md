@@ -11,7 +11,7 @@
 	and it is the most strong and fast lang
 	you can use it at anything you wanna build.
 
-## C++ domains:
+## C++ fields:
 	
 		Operation Systems
 		Cyber Security
