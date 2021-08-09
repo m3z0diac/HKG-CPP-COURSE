@@ -4,7 +4,7 @@
 
 Hello World
 
-	If you familliar with other langs sush as C - Python - PHP ..., You will not find problems at the syntax,
+	If you are familiar with other langs sush as C - Python - PHP ..., You will not find problems at the syntax,
 Because most of langs are similar to each othera
 First thing, for execute the code we write it in the main function 
 inside:
