@@ -1,6 +1,5 @@
-# Introduction
+# C++ Programming Language - Concept and sytnax.
 
-## c++ Programming Language - Concept and sytnax.
 ### Intruduction:
 	If you ask me what the best choice of programming langs to start, I'will tell you c++.
 
