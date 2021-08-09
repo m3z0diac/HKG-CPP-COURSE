@@ -1,7 +1,5 @@
 #include <iostream>
-
 /*
-
 Hello World
 
 	If you are familiar with other langs sush as C - Python - PHP ..., You will not find problems at the syntax,
@@ -24,7 +22,6 @@ what about C++ ?
 	So when we write cout that mean with human readable text : console out.
 	lets write Hello world with c++
 */
-
 int main()
 {
     std :: cout << "Hello World";
