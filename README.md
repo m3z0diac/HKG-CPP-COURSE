@@ -1,6 +1,6 @@
 # C++ Programming Language - Concept and sytnax.
 
-### Intruduction:
+### Introduction:
 	If you ask me what the best choice of programming langs to start, I'will tell you c++.
 
 ![Programmer and Problems solver](https://raw.githubusercontent.com/hamza07-w/HKG-CPP-COURSE/main/slide_3.jpg)
