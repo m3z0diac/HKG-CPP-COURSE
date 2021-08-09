@@ -1,8 +1,7 @@
 # Intruduction
 
 ## c++ Programming Language - Concept and sytnax.
-
--------------------------------------------Intruduction-----------------------------------------------:
+### Intruduction:
 	If you ask me what the bist choice of programming langs to start, I'will tell you c++.
 
 
