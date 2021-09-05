@@ -27,5 +27,3 @@
 	The syntax of c++, Get more knowledg about logic, And how the instructions work
 	We will write documents also about OOP, Stucters, Data structrus and algorithms concept.
 
-![Programmer and Problems solver](https://raw.githubusercontent.com/hamza07-w/HKG-CPP-COURSE/main/lordede.jpg)
-
